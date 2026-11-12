@@ -1,0 +1,1 @@
+Subir el contenido del ZIP respetando las carpetas tests/ y .github/workflows/. Eliminar el archivo OPENAI_API_KEY creado por error. No subir bases de datos ni archivos .env.
